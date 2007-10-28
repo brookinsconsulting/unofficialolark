@@ -2,7 +2,8 @@
  Default
  Hab.la - Account Number
 */
-wc_init("6955-399305-10-8754");
+wc_init("1111-2222-33-4444");
+
 
 /*
  Customized
