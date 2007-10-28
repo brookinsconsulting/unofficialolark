@@ -1,0 +1,15 @@
+INSTALL - unofficialhabla
+
+Instructions
+
+1) Activate Extension (per siteaccess, site.ini.append.php)
+
+Example #1
+
+[ExtensionSettings]
+ActiveAccessExtensions[]=unofficialhabla
+ActiveAccessExtensions[]=ezwebin
+
+2) Clear Cache
+
+3) Test Site
